@@ -6,6 +6,7 @@ System.out.println("Laskin v1.0");
 System.out.println("5 + 3 = " + yhteenlasku(5, 3));
 System.out.println("10 - 4 = " + vähennyslasku(10, 4));
 System.out.println("10 * 4 = " + kertolasku(10, 4));
+System.out.println("dvshnivv");
 }          
 
 public static int yhteenlasku(int a, int b) {         
